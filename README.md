@@ -2,4 +2,3 @@
 
 JavaScript code for everyone
 
-Test Pull request
